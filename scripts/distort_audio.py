@@ -16,8 +16,8 @@ data = np.frombuffer(bdata, dtype=np.int16)
 
 min_freq = 3
 max_freq = 6
-min_amp = 100
-max_amp = 150
+min_amp = 150
+max_amp = 250
 
 xround=lambda x:(x*2+1)//2
 
