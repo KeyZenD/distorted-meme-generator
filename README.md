@@ -6,7 +6,7 @@
 ## Important
 
 Imagemagick require `liquid rescale`.
-Recommend installation use [MacPort](https://www.macports.org/), and `+lqr` option.
+Recommend installation use [MacPorts](https://www.macports.org/), and `+lqr` option.
 
 This program is not optimized. there's a possibility that performance decrement your computer.
 
